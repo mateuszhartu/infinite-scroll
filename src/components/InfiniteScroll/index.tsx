@@ -1,0 +1,1 @@
+export { InifiniteScroll as default } from './InifiniteScroll';
